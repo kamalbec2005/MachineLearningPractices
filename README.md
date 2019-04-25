@@ -1,6 +1,7 @@
 This repository is to track the learning phase and modify the order of learning process to help others.
 
 The below are my steps to learn ML/AI:
+======================================
 1) A blog about "From software engineer to ML/AI expert":
 https://blog.insightdatascience.com/preparing-for-the-transition-to-applied-ai-d41e48403447
 2) Take a free and short course from TensorFlow wiht Udacity:
@@ -16,11 +17,14 @@ https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6
 8) Present paper.
 
 Software Skills:
+===============
 1) Pratice python, practice numpy and data sets
 2) C++ programming
 
 Mathematical skills:
+===================
 Linear Algebra, calculus
 
 Hardware skills:
+================
 RPi, Coral boards
