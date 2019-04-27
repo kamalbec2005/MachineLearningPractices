@@ -1,6 +1,6 @@
 This repository is to track the learning phase and modify the order of learning process to help others.
 
-#Inputs:
+# Inputs:
 ## Basic reference from [Vijay's github](https://github.com/vijayDL/DL-playground)
 
 The below are my steps to learn ML/AI:
