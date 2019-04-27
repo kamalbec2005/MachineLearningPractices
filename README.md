@@ -12,23 +12,12 @@ https://developers.google.com/machine-learning/crash-course/
 https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv
 5) NLP: A Complete cpurse on NLP from Stanford university
 https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6
-6) Few experiments on RaspberryPi and coral board. https://coral.withgoogle.com/products/dev-board
-7) Start implementing algorithms using C++ and provide Python library (using Cython)
-8) Present paper.
 
-Software Skills:
-===============
-1) Pratice python, practice numpy and data sets
-2) C++ programming
-
-Mathematical skills:
-===================
-Linear Algebra, calculus
-
-Hardware skills:
-================
-RPi, Coral boards
-
+Outcome:
+=======
+1) Few experiments on RaspberryPi and coral board. https://coral.withgoogle.com/products/dev-board
+2) Start implementing algorithms using C++ and provide Python library (using Cython)
+3) Present papers.
 
 
 # [Inputs from experts!](https://www.quora.com/What-are-the-best-resources-for-learning-computer-vision-for-someone-with-a-background-in-probability-and-linear-algebra-and-a-little-bit-in-machine-learning-The-book-%E2%80%9CComputer-Vision-Algorithms-and-Applications%E2%80%9D-is-not-very-beginner-friendly):
