@@ -1,3 +1,6 @@
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
+
 This repository is to track the learning phase and modify the order of learning process to help others.
 
 The below are my steps to learn ML/AI:
