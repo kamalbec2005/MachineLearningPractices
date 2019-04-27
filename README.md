@@ -3,6 +3,9 @@ Format: ![Alt Text](url)
 
 This repository is to track the learning phase and modify the order of learning process to help others.
 
+
+## Basic reference from [Vijay's github](https://github.com/vijayDL/DL-playground)
+
 The below are my steps to learn ML/AI:
 ======================================
 1) A blog about "From software engineer to ML/AI expert":
@@ -22,7 +25,6 @@ Outcome:
 2) Start implementing algorithms using C++ and provide Python library (using Cython)
 3) Present papers.
 
-## Basic reference from [Vijay's github](https://github.com/vijayDL/DL-playground)
 
 # [Inputs from experts](https://www.quora.com/What-are-the-best-resources-for-learning-computer-vision-for-someone-with-a-background-in-probability-and-linear-algebra-and-a-little-bit-in-machine-learning-The-book-%E2%80%9CComputer-Vision-Algorithms-and-Applications%E2%80%9D-is-not-very-beginner-friendly):
 
