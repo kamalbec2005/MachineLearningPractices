@@ -22,8 +22,10 @@ Outcome:
 2) Start implementing algorithms using C++ and provide Python library (using Cython)
 3) Present papers.
 
+## Basic reference from [Vijay's github](https://github.com/vijayDL/DL-playground)
 
-# [Inputs from experts!](https://www.quora.com/What-are-the-best-resources-for-learning-computer-vision-for-someone-with-a-background-in-probability-and-linear-algebra-and-a-little-bit-in-machine-learning-The-book-%E2%80%9CComputer-Vision-Algorithms-and-Applications%E2%80%9D-is-not-very-beginner-friendly):
+# [Inputs from experts](https://www.quora.com/What-are-the-best-resources-for-learning-computer-vision-for-someone-with-a-background-in-probability-and-linear-algebra-and-a-little-bit-in-machine-learning-The-book-%E2%80%9CComputer-Vision-Algorithms-and-Applications%E2%80%9D-is-not-very-beginner-friendly):
+
 Yes the best approach to learning such complex fields is always to challenge yourself with practical projects. I was actually learning from books such as the one referenced in the details to this question plus journals from David Lowe[1] and many more from the author of that book while building my computer vision (CV) system from ground-up.
 
 I learnt about computer vision by finishing an actual CV system. It was not easy though, it took 4 years for me to do that. I had to overcome a lot of negativity from toxic friends and my own insecurities in order to gather the courage to believe in my abilities to learn and build working novel solutions to really hard problems. I am glad I gave myself the chance, now I know a great deal about CV and ML thanks to Google search, Stackoverflow and many top universities providing many sources to read from freely online.
