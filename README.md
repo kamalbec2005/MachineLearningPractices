@@ -31,8 +31,7 @@ RPi, Coral boards
 
 
 
-# Inputs from experts:
-https://www.quora.com/What-are-the-best-resources-for-learning-computer-vision-for-someone-with-a-background-in-probability-and-linear-algebra-and-a-little-bit-in-machine-learning-The-book-%E2%80%9CComputer-Vision-Algorithms-and-Applications%E2%80%9D-is-not-very-beginner-friendly
+# [Inputs from experts!](https://www.quora.com/What-are-the-best-resources-for-learning-computer-vision-for-someone-with-a-background-in-probability-and-linear-algebra-and-a-little-bit-in-machine-learning-The-book-%E2%80%9CComputer-Vision-Algorithms-and-Applications%E2%80%9D-is-not-very-beginner-friendly):
 Yes the best approach to learning such complex fields is always to challenge yourself with practical projects. I was actually learning from books such as the one referenced in the details to this question plus journals from David Lowe[1] and many more from the author of that book while building my computer vision (CV) system from ground-up.
 
 I learnt about computer vision by finishing an actual CV system. It was not easy though, it took 4 years for me to do that. I had to overcome a lot of negativity from toxic friends and my own insecurities in order to gather the courage to believe in my abilities to learn and build working novel solutions to really hard problems. I am glad I gave myself the chance, now I know a great deal about CV and ML thanks to Google search, Stackoverflow and many top universities providing many sources to read from freely online.
@@ -58,30 +57,29 @@ So those projects above have stretched my understanding of the ML and CV fields 
 
 So the best resources are just available online just start working on something interesting like a side project and your mind will be curious to learn so that you can solve the tasks at hand.
 
-The best teacher is thus experience when it comes to practical fields like ML and CV. A lot of widely available easily reachable materials online are sufficient.
-
 The prerequisites to learning CV are:
 
-Maths:
-Linear algebra
-Probability and statistics
-Numerical optimization
-Calculus
-Image processing: or generally digital signal processing.
-Digital filters: Gaussian blur
-Image transformations: rotations, translations, scaling and many more.
-Scale space theorem for natural stimuli processing. Basically implemented using image pyramids, the so called multi-scale approach.
-Machine learning (ML): A very important area that is changing many AI sub-fields. You need to know about:
-Convolutional neural networks (CNN).
-Fully connected neural networks.
-Support vector machines (SVM)
-Recurrent neural networks (RNN) such as long-short-term-memory (LSTM) or gated recurrent unit (GRU) networks.
-Generative adversarial networks (GAN): For many tasks like image-to-image translation. Image enhancements, art style transfer and so on.
-Autoencoders: For noise reduction and image compression.
-Programming:
-C/C++: You can use OpenCV for CV implementations or build your own from scratch using C/C++.
-Java: OpenCV is also available in Java.
-Python: You can again use OpenCV in Python language. Probably this is a better choice as Python is a very high-level easy to learn language.
-So I personally just learn from the scattered stuff online, there is no one source I can point to as the best source.
+### Maths:
+1. Linear algebra
+2. Probability and statistics
+3. Numerical optimization
+4. Calculus
 
-Hope this helps.
+### Image processing: or generally digital signal processing.
+1. Digital filters: Gaussian blur
+2. Image transformations: rotations, translations, scaling and many more.
+3. Scale space theorem for natural stimuli processing. Basically implemented using image pyramids, the so called multi-scale approach.
+
+### Machine learning (ML): 
+A very important area that is changing many AI sub-fields. You need to know about:
+1. Convolutional neural networks (CNN).
+2. Fully connected neural networks.
+3. Support vector machines (SVM)
+4. Recurrent neural networks (RNN) such as long-short-term-memory (LSTM) or gated recurrent unit (GRU) networks.
+5. Generative adversarial networks (GAN): For many tasks like image-to-image translation. Image enhancements, art style transfer and so on.
+6. Autoencoders: For noise reduction and image compression.
+
+### Programming:
+1. C/C++: You can use OpenCV for CV implementations or build your own from scratch using C/C++.
+2. Java: OpenCV is also available in Java.
+3. Python: You can again use OpenCV in Python language. Probably this is a better choice as Python is a very high-level easy to learn language.
