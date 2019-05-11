@@ -18,7 +18,7 @@ https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6
 
 Outcome:
 =======
-1) Few experiments on RaspberryPi and [coral board](https://coral.withgoogle.com/products/dev-board).
+1) Few experiments on RaspberryPi and [coral board](https://coral.withgoogle.com/products/dev-board) or [NVIDIA Jetson Nano Developer Kit] (https://store.nvidia.com/store?Action=DisplayPage&Locale=en_US&SiteID=nvidia&id=QuickBuyCartPage).
 2) Start implementing algorithms using C++ and provide Python library (using Cython)
 3) Present papers.
 
