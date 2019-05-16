@@ -15,6 +15,8 @@ https://developers.google.com/machine-learning/crash-course/
 https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv
 5) NLP: A Complete cpurse on NLP from Stanford university
 https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6
+6) Learn MAths for ML:
+https://www.youtube.com/playlist?list=PLmAuaUS7wSOP-iTNDivR0ANKuTUhEzMe4
 
 Outcome:
 =======
