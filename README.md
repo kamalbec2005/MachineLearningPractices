@@ -25,7 +25,8 @@ Outcome:
 3) Present papers.
 
 
-# [Inputs from experts](https://www.quora.com/What-are-the-best-resources-for-learning-computer-vision-for-someone-with-a-background-in-probability-and-linear-algebra-and-a-little-bit-in-machine-learning-The-book-%E2%80%9CComputer-Vision-Algorithms-and-Applications%E2%80%9D-is-not-very-beginner-friendly):
+# [Inputs from experts]:
+The below comments are collected from [Chomba Bupe](https://www.quora.com/What-are-the-best-resources-for-learning-computer-vision-for-someone-with-a-background-in-probability-and-linear-algebra-and-a-little-bit-in-machine-learning-The-book-%E2%80%9CComputer-Vision-Algorithms-and-Applications%E2%80%9D-is-not-very-beginner-friendly):
 
 Yes the best approach to learning such complex fields is always to challenge yourself with practical projects. I was actually learning from books such as the one referenced in the details to this question plus journals from David Lowe[1] and many more from the author of that book while building my computer vision (CV) system from ground-up.
 
