@@ -17,6 +17,8 @@ https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv
 https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6
 6) Learn MAths for ML:
 https://www.youtube.com/playlist?list=PLmAuaUS7wSOP-iTNDivR0ANKuTUhEzMe4
+7) Know why should we use GPUs in higher computations:
+https://research.nvidia.com/sites/default/files/pubs/2007-02_How-GPUs-Work/04085637.pdf
 
 Outcome:
 =======
