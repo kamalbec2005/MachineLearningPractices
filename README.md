@@ -17,8 +17,11 @@ https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv
 https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6
 6) Learn MAths for ML:
 https://www.youtube.com/playlist?list=PLmAuaUS7wSOP-iTNDivR0ANKuTUhEzMe4
-7) Know why should we use GPUs in higher computations:
+7) GPUs:
+7.1) Know why should we use GPUs in higher computations:
 https://research.nvidia.com/sites/default/files/pubs/2007-02_How-GPUs-Work/04085637.pdf
+7.2) Know how to work with GPU using CUDA (NVIDIA GPU driver library):
+http://lorenabarba.com/gpuatbu/Program_files/Cruz_gpuComputing09.pdf
 
 Outcome:
 =======
